@@ -15,7 +15,7 @@ This project presents an engaging, single-page application that visualizes the c
 
 ## 🚀 Live Demo
 
-Visit the live site at: [privacy-vs-trade-off.debdootmanna.me](https://privacy-vs-trade-off.debdootmanna.me)
+Visit the live site at: [privacy-vs-trade-off.debdootmanna.me](https://privacy-vs-productivity-trade-off.debdootmanna.me)
 
 ## 🛠️ Technologies Used
 
